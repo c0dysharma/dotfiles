@@ -1,0 +1,62 @@
+{
+    "7c052257-ac29-4898-9185-27858531ef22": {
+        "id": "7c052257-ac29-4898-9185-27858531ef22",
+        "name": "Google Search",
+        "keyword": "g",
+        "cmd": "https://google.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1621268072.1341248
+    },
+    "589c9bbe-59ef-4577-84e3-a7198c16124b": {
+        "id": "589c9bbe-59ef-4577-84e3-a7198c16124b",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "http://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1621268072.134288
+    },
+    "83296c68-aa71-45c3-894a-d206644646b8": {
+        "id": "83296c68-aa71-45c3-894a-d206644646b8",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "~/Icons/wikipedia.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1621268072.1344
+    },
+    "0a73c642-76b8-4aaa-a2bf-7b4b91aee30c": {
+        "id": "0a73c642-76b8-4aaa-a2bf-7b4b91aee30c",
+        "name": "Youtube",
+        "keyword": "yt",
+        "cmd": "https://www.youtube.com/results?search_query=%s",
+        "icon": "~/Icons/youtube.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1624951585.569017
+    },
+    "0e9af3e4-ac03-4c13-8e82-903ddf0fc06e": {
+        "id": "0e9af3e4-ac03-4c13-8e82-903ddf0fc06e",
+        "name": "Whatsapp",
+        "keyword": "ws",
+        "cmd": "https://web.whatsapp.com",
+        "icon": "~/Icons/web-whatsapp.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1624954394.4314888
+    },
+    "4d2fdaf7-6299-49f7-94ec-ea1404f4f278": {
+        "id": "4d2fdaf7-6299-49f7-94ec-ea1404f4f278",
+        "name": "Micorsoft Teams Web",
+        "keyword": "tw",
+        "cmd": "https://teams.microsoft.com",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1624954608.94577
+    }
+}
