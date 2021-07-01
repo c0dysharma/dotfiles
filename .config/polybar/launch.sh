@@ -27,7 +27,7 @@ function start() {
                 MONITOR=$m polybar --reload -c $HOME/.config/polybar/config.ini bspwmBottom &
                 MONITOR=$m polybar --reload -c $HOME/.config/polybar/config.ini bspwmTop &
             else
-                MONITOR=$m polybar --reload -c $HOME/.config/polybar/config.ini i3wmBottom &
+#                MONITOR=$m polybar --reload -c $HOME/.config/polybar/config.ini i3wmBottom &
                 MONITOR=$m polybar --reload -c $HOME/.config/polybar/config.ini i3main &
             fi
         done

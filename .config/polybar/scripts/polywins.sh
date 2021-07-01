@@ -3,9 +3,9 @@
 
 # SETTINGS {{{ ---
 
-active_text_color="#72ACDB"
+active_text_color="#88C0D0"
 active_bg=
-active_underline="#72ACDB"
+active_underline="#88C0D0"
 
 inactive_text_color="#7D7A68"
 inactive_bg=
